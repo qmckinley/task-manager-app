@@ -1,3 +1,2 @@
-/node_modules/
-/config/dev.env/
-/mongodb.js/
+node_modules/
+config
